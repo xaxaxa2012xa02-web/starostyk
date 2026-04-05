@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(208, 157, 255) ;
+    background-image: ;
+    
+}
+
+
+.zagolovog {
+    text-align: center;
+    font-size: 25px;
+}
+
+.img {
+    width: 100px; 
+    height: auto; 
+}
+
+.link {
+    text-align: center;
+    color: rgb(255, 236, 236); 
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    position: ;
+    top: -40px; 
+    margin-left: px;
+    font-size: 30px;
+}
+.foto {
+    text-align: center;
+}
