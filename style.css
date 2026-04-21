@@ -1,5 +1,7 @@
 body {
     font-size: 20px;
+    
+
 }
 * {
     margin: 0;
@@ -110,3 +112,59 @@ body {
     transition: all 0.3s;
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.Telegram-link {
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.Telegram-link:hover {
+    background: white;
+    color: #00bbff;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.YouTube-link {
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.YouTube-link:hover {
+    background: white;
+    color: #ff0000;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.Instagram-link {
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.Instagram-link:hover {
+    background: white;
+    color: #ff6f00;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+
